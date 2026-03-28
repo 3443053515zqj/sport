@@ -3,7 +3,15 @@
 
 环境用python3.11
 要安装的库如下图：
+
+
+
 <img width="244" height="785" alt="{BE0559AE-814A-4266-8AFA-5970FF7436F7}" src="https://github.com/user-attachments/assets/726d3e75-217d-4c53-97d4-1039207c8197" />
+
+
+
+
+
 数据集用的是
 https://github.com/SoccerNet/sn-caption
 只使用了2014-2015年的赛事

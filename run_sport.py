@@ -28,7 +28,6 @@ NUM_CLASSES = len(LABEL_TO_ID)
 def parse_soccernet_data(text_data_dir, video_data_dir):
     """解析目录结构，提取所有带时间戳的事件并与视频路径对齐"""
     samples = []
-    # 假设目前只处理 2014-2015 赛季的数据
     season = "2014-2015"
     text_season_dir = os.path.join(text_data_dir, season)
     
